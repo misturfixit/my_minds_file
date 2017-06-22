@@ -1,2 +1,0 @@
-#@ disatest
-p "hullo wurld"
