@@ -1,18 +1,19 @@
 def mi_test(num)
-    num
+	
+
+
+  if num == 3 
+  	  	"Mined"  	
+  else 
+  		num
+  end	
+
  end
 
-  #if num == 3 
-  #		"Mined"  	
-  #elsif 
-	
- 	
-#	if	num == 3
- #        "mined"	
+
+
+#	if	num == 
  
 
 
-
-
-#end
 
