@@ -12,6 +12,9 @@ class Mm_test < Minitest::Test
 		assert_equal("Mined", mi_test(3))
 	end
 
+	def test_3
+		assert_equal("Minds", mi_test(5))
+	end
 
 
 end
